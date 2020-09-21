@@ -1,5 +1,5 @@
 # UPS-Display
-Python3 script to show info about APC UPSes (via apcupsd) on a Waveshare e-ink display and a RPi Zero W. 
+Python3 script to show info about APC UPSes (via apcupsd-refresh every 10 seconds) on a Waveshare e-ink display and a RPi Zero W. 
 The display used is the "Waveshare 2.13inch e-Paper HAT", you can read more at this link: https://www.waveshare.com/wiki/2.13inch_e-Paper_HAT
 We will take the data from https://github.com/flyte/apcaccess
 
