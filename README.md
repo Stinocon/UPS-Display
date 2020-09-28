@@ -5,8 +5,8 @@ Python3 script to show info about APC UPSes on a e-Paper display and a RPi Zero 
 
 
 # What you need
-* Raspberry Pi Zero W
-* Waveshare e-Paper 2.13inch Display (https://www.waveshare.com/wiki/2.13inch_e-Paper_HAT)
+* [Raspberry Pi Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-w/) with [Raspberry Pi OS](https://www.raspberrypi.org/downloads/raspberry-pi-os/) installed (former name was Raspbian)
+* [Waveshare e-Paper 2.13inch Display](https://www.waveshare.com/wiki/2.13inch_e-Paper_HAT)
 
 Before you start, make sure you have the SPI interface enabled on your Raspberry
 
@@ -53,9 +53,9 @@ Before you start, make sure you have the SPI interface enabled on your Raspberry
 	
 # Acknowledgements:
 
-* Apcaccess python library: https://github.com/flyte/apcaccess
-* e-paper Display library: https://www.waveshare.com/wiki/2.13inch_e-Paper_HAT
-* Tested with a APC Back-UPS XS 700U and a Pi Zero W Rev1.1
+* [Apcaccess python library](https://github.com/flyte/apcaccess)
+* [e-paper Display library](https://www.waveshare.com/wiki/2.13inch_e-Paper_HAT)
+* Tested with an [APC Back-UPS XS 700U](https://www.apc.com/shop/my/en/products/APC-Back-UPS-700VA-230V-AVR-Universal-and-IEC-Sockets/P-BX700U-MS) and a Pi Zero W Rev1.1
 
 # Notes: 
 This project has been realized for personal use. 
